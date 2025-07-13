@@ -1,11 +1,11 @@
 
 
-````markdown
+
 # Donations Portal
 
 The **Donations Portal** is a web-based application designed to streamline the donation process between **donors**, **administrators**, and **recipients** in a transparent and organized manner. It allows users to make and manage donations across categories like **education**, **infrastructure**, and **food**.
 
----
+
 
 ## 🌐 Features
 
@@ -48,7 +48,7 @@ The **Donations Portal** is a web-based application designed to streamline the d
    ```bash
    git clone https://github.com/Mounika9929/Donations-Portal.git
    cd Donations-Portal
-````
+
 
 2. Create a virtual environment:
 
